@@ -1,3 +1,3 @@
-#Demo
+# Demo
 
-this is just a simple example for practice on git.
+This is just a simple example for practice on git.
